@@ -1,0 +1,7 @@
+D:\university\2\1 semester\cybersecurity\pz1\pz1\bin\Debug\pz1.exe.config
+D:\university\2\1 semester\cybersecurity\pz1\pz1\bin\Debug\pz1.exe
+D:\university\2\1 semester\cybersecurity\pz1\pz1\bin\Debug\pz1.pdb
+D:\university\2\1 semester\cybersecurity\pz1\pz1\obj\Debug\pz1.csprojAssemblyReference.cache
+D:\university\2\1 semester\cybersecurity\pz1\pz1\obj\Debug\pz1.csproj.CoreCompileInputs.cache
+D:\university\2\1 semester\cybersecurity\pz1\pz1\obj\Debug\pz1.exe
+D:\university\2\1 semester\cybersecurity\pz1\pz1\obj\Debug\pz1.pdb
