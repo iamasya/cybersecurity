@@ -1,0 +1,7 @@
+C:\Users\asyal\source\repos\ConsoleApp3-3\ConsoleApp3-3\obj\Debug\ConsoleApp3-3.csprojAssemblyReference.cache
+C:\Users\asyal\source\repos\ConsoleApp3-3\ConsoleApp3-3\obj\Debug\ConsoleApp3-3.csproj.CoreCompileInputs.cache
+C:\Users\asyal\source\repos\ConsoleApp3-3\ConsoleApp3-3\bin\Debug\ConsoleApp3-3.exe.config
+C:\Users\asyal\source\repos\ConsoleApp3-3\ConsoleApp3-3\bin\Debug\ConsoleApp3-3.exe
+C:\Users\asyal\source\repos\ConsoleApp3-3\ConsoleApp3-3\bin\Debug\ConsoleApp3-3.pdb
+C:\Users\asyal\source\repos\ConsoleApp3-3\ConsoleApp3-3\obj\Debug\ConsoleApp3-3.exe
+C:\Users\asyal\source\repos\ConsoleApp3-3\ConsoleApp3-3\obj\Debug\ConsoleApp3-3.pdb
