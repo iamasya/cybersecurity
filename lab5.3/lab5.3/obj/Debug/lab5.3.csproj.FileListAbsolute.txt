@@ -1,0 +1,7 @@
+D:\university\2\1 semester\cybersecurity\lab5\lab5.3\lab5.3\bin\Debug\lab5.3.exe.config
+D:\university\2\1 semester\cybersecurity\lab5\lab5.3\lab5.3\bin\Debug\lab5.3.exe
+D:\university\2\1 semester\cybersecurity\lab5\lab5.3\lab5.3\bin\Debug\lab5.3.pdb
+D:\university\2\1 semester\cybersecurity\lab5\lab5.3\lab5.3\obj\Debug\lab5.3.csprojAssemblyReference.cache
+D:\university\2\1 semester\cybersecurity\lab5\lab5.3\lab5.3\obj\Debug\lab5.3.csproj.CoreCompileInputs.cache
+D:\university\2\1 semester\cybersecurity\lab5\lab5.3\lab5.3\obj\Debug\lab5.3.exe
+D:\university\2\1 semester\cybersecurity\lab5\lab5.3\lab5.3\obj\Debug\lab5.3.pdb

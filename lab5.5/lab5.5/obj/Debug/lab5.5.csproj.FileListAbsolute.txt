@@ -1,0 +1,7 @@
+D:\university\2\1 semester\cybersecurity\lab5\lab5.5\lab5.5\bin\Debug\lab5.5.exe.config
+D:\university\2\1 semester\cybersecurity\lab5\lab5.5\lab5.5\bin\Debug\lab5.5.exe
+D:\university\2\1 semester\cybersecurity\lab5\lab5.5\lab5.5\bin\Debug\lab5.5.pdb
+D:\university\2\1 semester\cybersecurity\lab5\lab5.5\lab5.5\obj\Debug\lab5.5.csprojAssemblyReference.cache
+D:\university\2\1 semester\cybersecurity\lab5\lab5.5\lab5.5\obj\Debug\lab5.5.csproj.CoreCompileInputs.cache
+D:\university\2\1 semester\cybersecurity\lab5\lab5.5\lab5.5\obj\Debug\lab5.5.exe
+D:\university\2\1 semester\cybersecurity\lab5\lab5.5\lab5.5\obj\Debug\lab5.5.pdb
