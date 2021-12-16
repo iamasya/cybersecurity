@@ -58,18 +58,7 @@ namespace lab11_12._1
 
             return (saltedhashedPassword == user.PasswordHash);
         }
-        //генерація солі
-        public static byte[] GenerateSalt()
-        {
-            const int saltLength = 32;
-            using (var randomNumberGenerator = new RNGCryptoServiceProvider())
-            {
-                var randomNumber = new byte[saltLength];
-                randomNumberGenerator.GetBytes(randomNumber);
-                return randomNumber;
-            }
-        }
-
+        
         //Метод для автентифікації користувачів
         public static void LogIn(string userName, string password)
         {
