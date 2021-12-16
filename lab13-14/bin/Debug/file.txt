@@ -1,0 +1,19 @@
+2021-12-16 21:19:05.4068 | Info |  | lab13_14.Program.Main | Registration of a new user
+2021-12-16 21:19:05.4326 | Debug |  | lab13_14.Program.Main |  0 iteration of redistration cycle
+2021-12-16 21:19:11.1434 | Debug |  | lab13_14.Program.Main | Asya - user's login
+2021-12-16 21:19:13.2366 | Debug |  | lab13_14.Program.Main | 2021 - user's password
+2021-12-16 21:19:13.2366 | Debug |  | lab13_14.Protector.Register | Assigning System.Byte[] to saltBytes
+2021-12-16 21:19:13.2366 | Info |  | lab13_14.Protector.Register | New user was created
+2021-12-16 21:19:13.2366 | Info |  | lab13_14.Program.Main | User's data was stored
+2021-12-16 21:19:13.2420 | Debug |  | lab13_14.Program.Main | User's salt was generated
+2021-12-16 21:19:13.2420 | Debug |  | lab13_14.Program.Main | User's password hashed+salted
+2021-12-16 21:19:13.2420 | Debug |  | lab13_14.Program.Main | Checking user authentification before logging in
+2021-12-16 21:19:13.2420 | Info |  | lab13_14.Program.Main | Login of a user
+2021-12-16 21:19:15.7964 | Debug |  | lab13_14.Program.Main | Asya - user's entered login
+2021-12-16 21:19:17.1070 | Debug |  | lab13_14.Program.Main | 2021 - user's entered password
+2021-12-16 21:19:17.1070 | Debug |  | lab13_14.Protector.CheckPassword | Checking userName before start
+2021-12-16 21:19:17.1070 | Info |  | lab13_14.Program.Main | User's data was stored
+2021-12-16 21:19:17.1168 | Debug |  | lab13_14.Program.Main | Checking Asya and 2021 before start logging in
+2021-12-16 21:19:17.1168 | Debug |  | lab13_14.Program.Main | User has been logged in
+2021-12-16 21:19:17.1168 | Info |  | lab13_14.Program.Main | Registration of a new user
+2021-12-16 21:19:17.1168 | Debug |  | lab13_14.Program.Main |  1 iteration of redistration cycle
