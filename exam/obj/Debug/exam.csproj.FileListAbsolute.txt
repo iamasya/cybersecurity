@@ -1,0 +1,7 @@
+D:\university\2\1semester\cybersecurity\examtask\exam\exam\bin\Debug\exam.exe.config
+D:\university\2\1semester\cybersecurity\examtask\exam\exam\bin\Debug\exam.exe
+D:\university\2\1semester\cybersecurity\examtask\exam\exam\bin\Debug\exam.pdb
+D:\university\2\1semester\cybersecurity\examtask\exam\exam\obj\Debug\exam.csprojAssemblyReference.cache
+D:\university\2\1semester\cybersecurity\examtask\exam\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+D:\university\2\1semester\cybersecurity\examtask\exam\exam\obj\Debug\exam.exe
+D:\university\2\1semester\cybersecurity\examtask\exam\exam\obj\Debug\exam.pdb
